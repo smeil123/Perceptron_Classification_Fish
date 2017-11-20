@@ -1,0 +1,94 @@
+1 th train error number# : 11
+1 th train weight : 2.452800  -0.946700  -179.994000
+2 th train error number# : 13
+2 th train weight : 2.486950  -0.945850  -179.993000
+3 th train error number# : 13
+3 th train weight : 2.479350  -0.954700  -179.992500
+4 th train error number# : 12
+4 th train weight : 2.471750  -0.963550  -179.992000
+5 th train error number# : 13
+5 th train weight : 2.503600  -0.967450  -179.991000
+6 th train error number# : 13
+6 th train weight : 2.496000  -0.976300  -179.990500
+7 th train error number# : 13
+7 th train weight : 2.488400  -0.985150  -179.990000
+8 th train error number# : 13
+8 th train weight : 2.480800  -0.994000  -179.989500
+9 th train error number# : 12
+9 th train weight : 2.473200  -1.002850  -179.989000
+10 th train error number# : 13
+10 th train weight : 2.505150  -1.002250  -179.988000
+11 th train error number# : 13
+11 th train weight : 2.497550  -1.011100  -179.987500
+12 th train error number# : 13
+12 th train weight : 2.489950  -1.019950  -179.987000
+13 th train error number# : 12
+13 th train weight : 2.482350  -1.028800  -179.986500
+14 th train error number# : 13
+14 th train weight : 2.514300  -1.028200  -179.985500
+15 th train error number# : 13
+15 th train weight : 2.506700  -1.037050  -179.985000
+16 th train error number# : 13
+16 th train weight : 2.499100  -1.045900  -179.984500
+17 th train error number# : 13
+17 th train weight : 2.491500  -1.054750  -179.984000
+18 th train error number# : 12
+18 th train weight : 2.483900  -1.063600  -179.983500
+19 th train error number# : 13
+19 th train weight : 2.515850  -1.063000  -179.982500
+20 th train error number# : 13
+20 th train weight : 2.508250  -1.071850  -179.982000
+21 th train error number# : 13
+21 th train weight : 2.500650  -1.080700  -179.981500
+22 th train error number# : 12
+22 th train weight : 2.493050  -1.089550  -179.981000
+23 th train error number# : 12
+23 th train weight : 2.485550  -1.093900  -179.980500
+24 th train error number# : 13
+24 th train weight : 2.517500  -1.093300  -179.979500
+25 th train error number# : 13
+25 th train weight : 2.509900  -1.102150  -179.979000
+26 th train error number# : 13
+26 th train weight : 2.502300  -1.111000  -179.978500
+27 th train error number# : 12
+27 th train weight : 2.494700  -1.119850  -179.978000
+28 th train error number# : 11
+28 th train weight : 2.487200  -1.124200  -179.977500
+29 th train error number# : 13
+29 th train weight : 2.519150  -1.123600  -179.976500
+30 th train error number# : 13
+30 th train weight : 2.511550  -1.132450  -179.976000
+31 th train error number# : 12
+31 th train weight : 2.503950  -1.141300  -179.975500
+32 th train error number# : 12
+32 th train weight : 2.496450  -1.145650  -179.975000
+33 th train error number# : 13
+33 th train weight : 2.528400  -1.145050  -179.974000
+34 th train error number# : 13
+34 th train weight : 2.520800  -1.153900  -179.973500
+35 th train error number# : 13
+35 th train weight : 2.513200  -1.162750  -179.973000
+36 th train error number# : 12
+36 th train weight : 2.505700  -1.167100  -179.972500
+37 th train error number# : 12
+37 th train weight : 2.498200  -1.171450  -179.972000
+38 th train error number# : 13
+38 th train weight : 2.530150  -1.170850  -179.971000
+39 th train error number# : 13
+39 th train weight : 2.522550  -1.179700  -179.970500
+40 th train error number# : 12
+40 th train weight : 2.514950  -1.188550  -179.970000
+41 th train error number# : 12
+41 th train weight : 2.507450  -1.192900  -179.969500
+42 th train error number# : 12
+42 th train weight : 2.499950  -1.197250  -179.969000
+43 th train error number# : 13
+43 th train weight : 2.531900  -1.196650  -179.968000
+44 th train error number# : 13
+44 th train weight : 2.524300  -1.205500  -179.967500
+45 th train error number# : 12
+45 th train weight : 2.516700  -1.214350  -179.967000
+46 th train error number# : 12
+46 th train weight : 2.509200  -1.218700  -179.966500
+47 th train error number# : 9
+47 th train weight : 2.438700  -1.233650  -179.967000

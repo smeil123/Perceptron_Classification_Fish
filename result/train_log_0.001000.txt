@@ -1,0 +1,50 @@
+1 th train error number# : 19
+1 th train weight : 2.591300  -0.931400  -179.992000
+2 th train error number# : 18
+2 th train weight : 2.576100  -0.949100  -179.991000
+3 th train error number# : 15
+3 th train weight : 2.560900  -0.966800  -179.990000
+4 th train error number# : 15
+4 th train weight : 2.551900  -0.982000  -179.989000
+5 th train error number# : 19
+5 th train weight : 2.620200  -0.980300  -179.987000
+6 th train error number# : 19
+6 th train weight : 2.605000  -0.998000  -179.986000
+7 th train error number# : 17
+7 th train weight : 2.589800  -1.015700  -179.985000
+8 th train error number# : 15
+8 th train weight : 2.574600  -1.033400  -179.984000
+9 th train error number# : 15
+9 th train weight : 2.565600  -1.048600  -179.983000
+10 th train error number# : 14
+10 th train weight : 2.556300  -1.054800  -179.982000
+11 th train error number# : 19
+11 th train weight : 2.624600  -1.053100  -179.980000
+12 th train error number# : 19
+12 th train weight : 2.609400  -1.070800  -179.979000
+13 th train error number# : 16
+13 th train weight : 2.594200  -1.088500  -179.978000
+14 th train error number# : 14
+14 th train weight : 2.579000  -1.106200  -179.977000
+15 th train error number# : 14
+15 th train weight : 2.569700  -1.112400  -179.976000
+16 th train error number# : 20
+16 th train weight : 2.638000  -1.110700  -179.974000
+17 th train error number# : 18
+17 th train weight : 2.622800  -1.128400  -179.973000
+18 th train error number# : 16
+18 th train weight : 2.607600  -1.146100  -179.972000
+19 th train error number# : 14
+19 th train weight : 2.592400  -1.163800  -179.971000
+20 th train error number# : 14
+20 th train weight : 2.583100  -1.170000  -179.970000
+21 th train error number# : 14
+21 th train weight : 2.573800  -1.176200  -179.969000
+22 th train error number# : 20
+22 th train weight : 2.642100  -1.174500  -179.967000
+23 th train error number# : 18
+23 th train weight : 2.626900  -1.192200  -179.966000
+24 th train error number# : 15
+24 th train weight : 2.611700  -1.209900  -179.965000
+25 th train error number# : 9
+25 th train weight : 2.441900  -1.240400  -179.967000
